@@ -1,5 +1,7 @@
 # EVA-6-Assignemnt-MNIST
 
+Group 16
+
 (Not sure of how to implemnt the random number)
 
 Implemented for MNIST Dataset inputs only
