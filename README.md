@@ -12,6 +12,8 @@ Implemented for MNIST Dataset inputs only
 
 -8 layers
 
+-Test loss: Negative log likelihood.
+
 Team:
 Strivathsav Ashwin
 
