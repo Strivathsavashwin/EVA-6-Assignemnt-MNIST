@@ -14,5 +14,7 @@ Implemented for MNIST Dataset inputs only
 
 Team:
 Strivathsav Ashwin
+
 Sriram Saiteja
+
 Prateek
