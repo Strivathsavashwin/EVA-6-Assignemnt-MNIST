@@ -5,8 +5,11 @@
 Implemented for MNIST Dataset inputs only
 
 -3 epochs
+
 -98.91 percent accuracy
+
 -Dropout probability is 0.1
+
 -8 layers
 
 Team:
